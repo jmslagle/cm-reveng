@@ -6,4 +6,5 @@ Eventually the code to the challenges will live here, but if we give it to you n
 
 For now, here are some lab resources.
 
-[Lab 3](lab3)
+* [Lab 3](lab3.md)
+* [Lab 4](lab4.md)
