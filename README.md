@@ -8,3 +8,4 @@ For now, here are some lab resources.
 
 * [Lab 3](lab3.md)
 * [Lab 4](lab4.md)
+* [Resources](resources.md)
